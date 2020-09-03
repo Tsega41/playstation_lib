@@ -1,0 +1,8 @@
+README.md
+setup.py
+playstation/__init__.py
+playstation/playstation_plus.py
+playstation.egg-info/PKG-INFO
+playstation.egg-info/SOURCES.txt
+playstation.egg-info/dependency_links.txt
+playstation.egg-info/top_level.txt

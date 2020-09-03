@@ -1,0 +1,14 @@
+Metadata-Version: 1.0
+Name: playstation
+Version: 0.1.0
+Summary: Playstation libary to give you easy access to what you can do with your playstation
+Home-page: https://github.com/Tsega41/PS-Plus
+Author: Tsega Amanuel
+Author-email: UNKNOWN
+License: MIT LICENSE
+Description: This libary is used to get content from the playstation website and give 
+        you different functions to access specific parts and parts that you
+        would want in the playstation website.
+        
+        It uses beautiful soap to get the content from the website.
+Platform: UNKNOWN
